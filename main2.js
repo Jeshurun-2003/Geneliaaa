@@ -102,13 +102,13 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "Adaaaaa paaaviii. I love you too Geneliaa maaah. ❤️😘";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
 
     } else {
-        alert("Don't say yes right away, cutie. Play around a bit 😉😘");
+        alert("Don't say yes soon, padhuuuu. Say noo and Play around a bit 😉😘");
     }
 }
 
